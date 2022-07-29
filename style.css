@@ -37,10 +37,6 @@ h5 {
 }
 
 @media screen and (max-width: 768px) {
-  .companies {
-    visibility: hidden !important;
-  }
-
   .stats img {
     width: 100%;
     margin-left: 0px;
