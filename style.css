@@ -35,3 +35,18 @@ h5 {
 .company-img img {
   width: 15% !important;
 }
+
+@media screen and (max-width: 768px) {
+  .companies {
+    visibility: hidden !important;
+  }
+
+  .stats img {
+    width: 100%;
+    margin-left: 0px;
+  }
+
+  .course-img img {
+    width: 280px;
+  }
+}
